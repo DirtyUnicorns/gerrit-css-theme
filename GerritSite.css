@@ -659,6 +659,11 @@ th.com-google-gerrit-client-change-FileTable-FileTableCss-deltaColumn2 {
 .com-google-gerrit-client-change-RelatedChanges-RelatedChangesCss-subject {
 	width: 90% !important;
 }
+
+.com-google-gerrit-client-change-RelatedChanges-RelatedChangesCss-strikedSubject {
+	width: 90% !important;
+}
+
 .com-google-gerrit-client-change-RelatedChanges-RelatedChangesCss-row {
 	height: 30px;
 	line-height: 30px;
