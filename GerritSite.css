@@ -1058,9 +1058,6 @@ button.com-google-gerrit-client-change-Reviewers_BinderImpl_GenCss_style-openAdd
 .com-google-gerrit-client-change-CommitBox_BinderImpl_GenCss_style-text {
 	height: 106px;
 }
-.gwt-TabPanelBottom > div > div > div {
-	height:  auto !important;
-}
 .com-google-gerrit-client-change-CommitBox_BinderImpl_GenCss_style-scroll {
 	width: calc(100% + 370px);
 }
