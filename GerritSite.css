@@ -170,12 +170,6 @@ button {
 		top: -33px;
 	}
 }
-@media (max-width: 1200px) {
-	.gerritTopMenu .searchPanel input[type="text"],
-	.gerritTopMenu .searchPanel input[type="text"]:hover {
-		max-width: 200px;
-	}
-}
 
 /* Search Panel */
 
@@ -209,7 +203,6 @@ button {
 }
 .gerritTopMenu .searchPanel .searchTextBox {
 	margin-top: 0 !important;
-	float: left;
 }
 .gerritTopMenu .searchPanel .searchButton {
 	box-sizing: border-box;
@@ -1065,9 +1058,6 @@ button.com-google-gerrit-client-change-Reviewers_BinderImpl_GenCss_style-openAdd
 .com-google-gerrit-client-change-CommitBox_BinderImpl_GenCss_style-text {
 	height: 106px;
 }
-.gwt-TabPanelBottom > div > div > div {
-	height:  auto !important;
-}
 .com-google-gerrit-client-change-CommitBox_BinderImpl_GenCss_style-scroll {
 	width: calc(100% + 370px);
 }
@@ -1103,7 +1093,6 @@ button.com-google-gerrit-client-change-Reviewers_BinderImpl_GenCss_style-openAdd
 	.menuBarUserNamePanel {
 		position: absolute;
 		right: 0;
-		top: 22px;
 	}
 	.screenHeader {
 		display: block;
