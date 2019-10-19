@@ -720,10 +720,6 @@ th.com-google-gerrit-client-change-FileTable-FileTableCss-deltaColumn2 {
 	border-radius: 3px;
 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.07);
 }
-.com-google-gerrit-client-diff-CommentBox-Style-commentWidgets,
-.com-google-gerrit-client-diff-CommentBox-Style-commentWidgets * {
-	box-sizing: border-box;
-}
 .com-google-gerrit-client-diff-CommentBox-Style-commentWidgets .com-google-gerrit-client-diff-CommentBox-Style-header,
 .com-google-gerrit-client-diff-CommentBox-Style-commentWidgets * .com-google-gerrit-client-diff-CommentBox-Style-header {
 	padding: 5px 0;
